@@ -3,13 +3,13 @@ Here I attach the submission results. hope to fulfill what is desired
 - Assignment 2 : API system for warehouse
     API RESTful using Django REST Framework
     Features :
-    ✔️ Inventory Management
-    ✔️ Purchase/Sales Transactions
-    ✔️ Stock Tracking
-    ✔️ Periodic Stock Reports
-    ✔️ Soft Delete Implementation
-    ✔️ RESTful API Endpoints
-    ✔️ Comprehensive Documentation
+      - Inventory Management
+      - Purchase/Sales Transactions
+      - Stock Tracking
+      - Periodic Stock Reports
+      - Soft Delete Implementation
+      - RESTful API Endpoints
+      - Comprehensive Documentation
   
 ## Instalasi
 1. Clone repository:
